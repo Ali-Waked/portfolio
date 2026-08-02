@@ -1,0 +1,605 @@
+{
+  "meta": {
+    "title": "Ali Abu Waked | Full Stack Developer",
+    "description": "Building scalable, high-performance web applications with Laravel and Vue.js. Focused on clean architecture, premium UX, and shipping products that make an impact.",
+    "ogDescription": "Full Stack Developer building exceptional digital experiences with cutting-edge technology.",
+    "ogLocale": "en_US"
+  },
+  "brand": {
+    "name": "Ali Abu Waked",
+    "initials": "AW"
+  },
+  "logo": {
+    "first": "ALI ABU",
+    "last": "WAKED"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "theme": "Toggle theme (Ctrl+K)",
+    "themeTooltip": "Toggle theme (Ctrl+K)"
+  },
+  "langSwitcher": {
+    "label": "Change language",
+    "english": "English",
+    "arabic": "العربية"
+  },
+  "loading": {
+    "status": "Loading...",
+    "ready": "Ready"
+  },
+  "status": {
+    "completed": "Completed",
+    "portfolio": "Portfolio Project"
+  },
+  "hero": {
+    "available": "Available for",
+    "opportunities": "Opportunities",
+    "line1": "Engineering",
+    "line2": "Exceptional",
+    "line3": "Web Experiences",
+    "name": "Ali Abu Waked",
+    "role": "Full Stack Laravel Developer",
+    "description": "Building scalable, high-performance web applications with Laravel and Vue.js. Focused on clean architecture, premium UX, and shipping products that make an impact.",
+    "projects": "Explore My Projects",
+    "connect": "Let's Connect",
+    "resume": "Download Resume",
+    "scroll": "Scroll",
+    "avatarAlt": "Ali Abu Waked - Portrait",
+    "socials": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Email",
+      "resume": "Resume"
+    }
+  },
+  "about": {
+    "kicker": "About Me",
+    "title1": "Crafting Digital",
+    "title2": "Excellence",
+    "bio": [
+      "I'm a Full Stack Developer specializing in Laravel and Vue.js, passionate about building scalable, secure, and high-performance web applications. I enjoy transforming ideas into complete digital products with clean architecture, responsive user interfaces, and maintainable backend systems.",
+      "I've developed a diverse portfolio of full-stack applications, including healthcare platforms, e-commerce systems, AI-powered productivity tools, learning management systems, and file-sharing solutions. Through these projects, I've gained strong experience in RESTful API development, authentication, database design, payment gateway integration, multilingual applications, and modern frontend development.",
+      "I continuously improve my skills by building real-world applications, exploring modern technologies, and following best practices in software architecture, performance optimization, and user experience."
+    ],
+    "journeyHighlightTitle": "Full Stack Development",
+    "journeyHighlightText": "10+ production-ready applications built with Laravel and Vue.js",
+    "journeyHeading": "My Journey",
+    "stats": [
+      { "value": "10+", "label": "Full Stack Projects" },
+      { "value": "Laravel & Vue.js", "label": "Core Stack" },
+      { "value": "REST APIs", "label": "Backend Focus" },
+      { "value": "AI Integration", "label": "Modern Technologies" }
+    ],
+    "journey": [
+      { "year": "2023", "title": "Started Web Development", "company": "HTML · CSS · JavaScript · PHP" },
+      { "year": "2024", "title": "Laravel & Vue.js", "company": "REST APIs · Authentication · Database Design · Responsive UI" },
+      { "year": "2025", "title": "Production-Ready Applications", "company": "Healthcare · E-commerce · AI apps · LMS · File Sharing" },
+      { "year": "2026", "title": "Continuous Learning & Growth", "company": "Architecture · Performance · AI Integration · Deployment" }
+    ]
+  },
+  "skills": {
+    "kicker": "Skills & Expertise",
+    "title1": "Technologies I",
+    "title2": "Work With",
+    "subtitle": "The modern full-stack toolkit behind my projects — Laravel, Vue.js, and the services that ship production-grade apps.",
+    "groups": {
+      "languages": "Languages",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Database",
+      "tools": "Tools & DevOps"
+    },
+    "techCount": "{count} tech",
+    "skillCount": "{count} skills",
+    "prevPage": "Previous page",
+    "nextPage": "Next page",
+    "ctaTitle": "Let's build something together",
+    "ctaDescription": "35+ technologies ready for your next project. Have an idea in mind?",
+    "ctaButton": "Get in touch",
+    "categories": {
+      "backend": {
+        "title": "Backend Development",
+        "description": "Building secure, scalable, and high-performance backend systems with Laravel and modern PHP."
+      },
+      "frontend": {
+        "title": "Frontend Development",
+        "description": "Creating responsive, interactive, and user-friendly interfaces using Vue.js and modern JavaScript."
+      },
+      "devops": {
+        "title": "DevOps & Tools",
+        "description": "Streamlining development workflows with containerization, version control, and modern tooling."
+      },
+      "ai": {
+        "title": "AI Integration",
+        "description": "Integrating LLMs and AI-powered features into modern web applications."
+      },
+      "payments": {
+        "title": "Payment Integration",
+        "description": "Implementing secure online payment solutions using industry-standard gateways."
+      }
+    }
+  },
+  "techGrid": {
+    "kicker": "Tech Stack",
+    "title1": "My Technology",
+    "title2": "Stack",
+    "subtitle": "The languages, frameworks, and tools I use to design, build, and ship full-stack applications."
+  },
+  "projectsSection": {
+    "kicker": "Featured Work",
+    "title1": "Featured",
+    "title2": "Projects",
+    "subtitle": "A selection of my most significant full-stack applications, demonstrating expertise in Laravel, Vue.js, AI integration, scalable architectures, and modern web development.",
+    "viewAll": "View All Projects",
+    "viewDetails": "View Details"
+  },
+  "projectsPage": {
+    "back": "Back to Home",
+    "kicker": "Portfolio",
+    "title1": "All",
+    "title2": "Projects",
+    "subtitle": "A complete overview of the full-stack applications I have built with Laravel, Vue.js, and modern web technologies — from healthcare platforms and e-commerce stores to AI-powered tools."
+  },
+  "projectDetail": {
+    "back": "All Projects",
+    "previous": "Previous",
+    "next": "Next",
+    "overview": "Project Overview",
+    "technologies": "Technologies",
+    "highlights": "Highlights",
+    "links": "Links",
+    "gitHubRepo": "GitHub Repository",
+    "backendRepo": "Backend Repository",
+    "frontendRepo": "Frontend Repo",
+    "videoDemo": "Video Demo",
+    "caseStudy": "Case Study",
+    "keyFeatures": "Key Features",
+    "prevProject": "Previous Project",
+    "nextProject": "Next Project",
+    "notFoundTitle1": "Project",
+    "notFoundTitle2": "Not Found",
+    "backToAll": "Back to all projects"
+  },
+  "experience": {
+    "kicker": "Development Journey",
+    "title1": "My Growth as a",
+    "title2": "Full Stack Developer",
+    "1": {
+      "role": "Started My Development Journey",
+      "period": "2023",
+      "description": "Began learning modern web development by mastering HTML, CSS, JavaScript, PHP, and programming fundamentals. Built small applications to strengthen problem-solving skills and understand software development principles.",
+      "achievements": [
+        "HTML5 & CSS3",
+        "JavaScript",
+        "PHP Fundamentals",
+        "Git & GitHub",
+        "Responsive Design"
+      ]
+    },
+    "2": {
+      "role": "Mastering Laravel & Vue.js",
+      "period": "2024",
+      "description": "Focused on building complete full-stack applications using Laravel and Vue.js while learning RESTful APIs, authentication, database design, authorization, and responsive frontend development.",
+      "achievements": [
+        "Laravel",
+        "Vue.js",
+        "REST APIs",
+        "MySQL",
+        "Authentication",
+        "Tailwind CSS"
+      ]
+    },
+    "3": {
+      "role": "Building Production-Ready Applications",
+      "period": "2025",
+      "description": "Developed a portfolio of real-world applications including healthcare platforms, e-commerce systems, AI-powered applications, learning management systems, and secure file-sharing platforms. Strengthened skills in clean architecture, role-based systems, payment integration, multilingual support, and scalable backend development.",
+      "achievements": [
+        "10+ Portfolio Projects",
+        "Role-Based Dashboards",
+        "AI Integration",
+        "Stripe & PayPal",
+        "Arabic & English",
+        "REST APIs"
+      ]
+    },
+    "4": {
+      "role": "Continuous Learning & Growth",
+      "period": "Today",
+      "description": "Continuously improving software architecture, backend engineering, frontend development, performance optimization, AI integration, deployment workflows, and user experience while expanding my portfolio with modern web technologies.",
+      "achievements": [
+        "Clean Architecture",
+        "Docker",
+        "Performance Optimization",
+        "Modern Laravel",
+        "Vue Ecosystem",
+        "Best Practices"
+      ]
+    }
+  },
+  "services": {
+    "kicker": "What I Do",
+    "title1": "Services",
+    "title2": "& Expertise",
+    "1": {
+      "title": "Backend Development",
+      "description": "Design and develop secure, scalable backend applications using Laravel and PHP. Build RESTful APIs, implement authentication and authorization, manage databases, and create maintainable server-side architectures."
+    },
+    "2": {
+      "title": "Frontend Development",
+      "description": "Develop responsive and interactive user interfaces using Vue.js, JavaScript, Tailwind CSS, and modern frontend development practices with a focus on performance and user experience."
+    },
+    "3": {
+      "title": "Full Stack Development",
+      "description": "Build complete web applications from frontend to backend, including authentication, dashboards, database design, API integration, payment gateways, and responsive user interfaces."
+    },
+    "4": {
+      "title": "REST API Development",
+      "description": "Develop secure, well-structured RESTful APIs with authentication, validation, documentation, and seamless communication between frontend and backend systems."
+    },
+    "5": {
+      "title": "AI Integration",
+      "description": "Integrate AI-powered features into web applications using modern LLM APIs such as Groq. Build intelligent assistants, content generation tools, and workflow automation features."
+    },
+    "6": {
+      "title": "Database Design",
+      "description": "Design efficient relational databases using MySQL, create optimized schemas, manage relationships, write performant queries, and implement clean database structures."
+    },
+    "7": {
+      "title": "Authentication & Security",
+      "description": "Implement secure authentication and authorization using Laravel Sanctum and Fortify, role-based access control, middleware, validation, and application security best practices."
+    }
+  },
+  "certificates": {
+    "kicker": "Credentials",
+    "title1": "Certificates",
+    "title2": "& Achievements",
+    "1": {
+      "title": "AWS Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "description": "Professional certification for designing distributed systems on AWS."
+    },
+    "2": {
+      "title": "AI Engineering Professional",
+      "issuer": "DeepLearning.AI",
+      "description": "Advanced certification in AI engineering and LLM integration."
+    },
+    "3": {
+      "title": "Laravel Certified Developer",
+      "issuer": "Laravel",
+      "description": "Official certification demonstrating expert-level Laravel proficiency."
+    },
+    "4": {
+      "title": "Vue.js Advanced Developer",
+      "issuer": "Vue School",
+      "description": "Advanced certification in Vue.js 3, Composition API, and state management."
+    },
+    "5": {
+      "title": "Google Cloud Professional",
+      "issuer": "Google Cloud",
+      "description": "Professional certification for Google Cloud Platform architecture."
+    }
+  },
+  "contact": {
+    "kicker": "Get In Touch",
+    "title1": "Let's",
+    "title2": "Connect",
+    "intro": "Have a project in mind or just want to say hello? I'm always open to discussing new opportunities and collaborations.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "location": "Location",
+    "linkedinSub": "Connect with me",
+    "githubSub": "View my repos",
+    "downloadCv": "Download CV",
+    "downloadCvSub": "Ali Abu Waked — CV",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your{'@'}email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What's this about?",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "send": "Send Message",
+      "sending": "Sending..."
+    },
+    "fieldErrors": {
+      "nameRequired": "Please enter your name.",
+      "nameMin": "Name must be at least 2 characters.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "subjectRequired": "Please enter a subject.",
+      "messageRequired": "Please enter your message.",
+      "messageMin": "Message must be at least 10 characters.",
+      "cooldown": "Please wait a moment before sending another message."
+    },
+    "honeypot": {
+      "label": "Website"
+    },
+    "toast": {
+      "successTitle": "Thank you!",
+      "success": "Your message has been sent successfully. I'll get back to you as soon as possible.",
+      "errorTitle": "Something went wrong.",
+      "error": "Please try again later.",
+      "close": "Dismiss notification"
+    },
+    "errors": {
+      "required": "Please fill in all required fields.",
+      "email": "Please enter a valid email address.",
+      "success": "Thank you! Your message has been sent successfully."
+    }
+  },
+  "footer": {
+    "tagline": "Full Stack Developer. Building exceptional digital experiences with cutting-edge technology.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "rights": "© {year} Ali Abu Waked. All rights reserved.",
+    "backToTop": "Back to top"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "projects": {
+    "hes": {
+      "title": "HES Connect",
+      "category": "Healthcare",
+      "description": "A comprehensive healthcare management platform connecting patients, healthcare providers, hospitals, clinics, and pharmacies through a unified ecosystem — featuring appointment scheduling, AI-powered assistance, multilingual support, role-based dashboards, and payment integration.",
+      "overview": [
+        "HES Connect is a comprehensive healthcare management platform designed to connect patients, doctors, pharmacies, hospitals, clinics, and healthcare organizations within a unified digital ecosystem. The platform streamlines the entire healthcare journey, from finding the right doctor and booking appointments to managing prescriptions, medications, and patient records.",
+        "The system features multiple role-based dashboards, each tailored to the responsibilities of different users, including Super Admin, Facility Administrators, Doctors, Pharmacists, Nurses, and Patients. Every dashboard provides specialized tools for managing daily operations while maintaining strict access control and data security.",
+        "Patients can search healthcare facilities, browse doctors by specialty, schedule appointments, manage prescriptions, request medications from pharmacies, save favorite doctors and facilities, communicate with healthcare providers, and review healthcare services. The platform also includes multilingual support (Arabic & English), theme customization, notifications, secure authentication, and profile management.",
+        "One of the platform's key features is its AI-powered healthcare assistant, which analyzes patient symptoms, recommends the most appropriate medical specialty, and suggests suitable healthcare providers using the system database instead of generating random recommendations. The AI supports natural conversations in both Arabic and English while ensuring medical recommendations remain safe and reliable.",
+        "Healthcare facilities can manage departments, staff members, working schedules, appointments, patient records, medical inventories, articles, stories, reviews, and reports through dedicated management dashboards. The platform also integrates secure online payment gateways and supports donation and fundraising workflows for healthcare campaigns."
+      ],
+      "highlights": ["Multi Dashboard System", "AI-Powered Assistance", "Role-Based Access", "Appointment Scheduling", "Payment Integration"],
+      "metrics": ["Healthcare", "AI Powered", "3 Dashboards", "REST API", "Payment Integration"],
+      "features": [
+        "Multi-role dashboards with advanced permission management",
+        "AI-powered healthcare assistant using Groq AI",
+        "Doctor recommendation based on symptoms",
+        "Appointment booking and schedule management",
+        "Prescription and medication request system",
+        "Pharmacy inventory management",
+        "Hospital, clinic, and pharmacy management",
+        "Patient and staff management",
+        "Healthcare articles and educational content",
+        "Reviews and ratings",
+        "Real-time notifications",
+        "Secure authentication with Laravel Fortify & Sanctum",
+        "RESTful API architecture",
+        "Arabic & English localization",
+        "Responsive modern interface",
+        "Payment gateway integration",
+        "Docker-based development environment"
+      ]
+    },
+    "organick": {
+      "title": "Organick",
+      "category": "E-Commerce",
+      "description": "A modern full-stack e-commerce platform featuring multiple management dashboards, product management, shopping cart, secure checkout, order tracking, blog system, multilingual support, and integrated payment gateways.",
+      "overview": [
+        "Organick is a modern full-stack e-commerce platform designed to deliver a complete online shopping experience for customers while providing powerful management tools for administrators and moderators. The platform focuses on performance, scalability, and user experience, offering an intuitive interface for browsing products, placing orders, and managing online stores.",
+        "Customers can explore products through organized categories, search and filter items, add products to their shopping cart, maintain wish lists, complete secure online payments, and monitor the status of their orders from purchase to delivery. The shopping experience is fully responsive and optimized for both desktop and mobile devices.",
+        "The system includes three independent dashboards for Administrators, Moderators, and Drivers. Administrators can manage products, users, categories, blogs, subscriptions, payments, and system settings. Moderators are responsible for reviewing content and managing product listings, while Drivers can monitor assigned deliveries and update delivery statuses.",
+        "The platform also includes a complete blogging system with subscription functionality, allowing visitors to subscribe and receive updates whenever new articles are published. The application supports multiple payment gateways, multilingual content management, user authentication, role-based permissions, and order tracking."
+      ],
+      "highlights": ["Multi Dashboard System", "Product Management", "Shopping Cart", "Secure Checkout", "Order Tracking"],
+      "metrics": ["E-Commerce", "Management Dashboards", "Multilingual", "Payment Gateways"],
+      "features": [
+        "Three management dashboards",
+        "Customer shopping experience",
+        "Product catalog and categories",
+        "Shopping cart and checkout",
+        "Order tracking",
+        "Blog management",
+        "Blog subscription system",
+        "Product search and filtering",
+        "Multiple payment gateways",
+        "Secure authentication",
+        "User management",
+        "Responsive UI",
+        "Arabic & English support"
+      ]
+    },
+    "educlass": {
+      "title": "EduClass",
+      "category": "Education",
+      "description": "A learning management system inspired by Google Classroom, allowing instructors and students to manage courses, assignments, subscriptions, and educational content through a modern responsive interface.",
+      "overview": [
+        "EduClass is a feature-rich Learning Management System inspired by Google Classroom, built to simplify online education for teachers, students, and educational institutions. The platform provides a complete digital learning environment where instructors can create courses, manage classrooms, publish educational materials, assign homework, and monitor student participation.",
+        "Students can enroll in courses, access lessons, submit assignments, communicate with instructors, and track academic progress through a modern and responsive interface. The platform includes secure subscription plans with Stripe integration, multilingual support, customizable themes, and role-based access control.",
+        "Designed with scalability and usability in mind, EduClass delivers an experience similar to major online learning platforms while remaining lightweight and highly customizable."
+      ],
+      "highlights": ["Course Management", "Assignments", "Subscriptions", "Instructor & Student Roles", "Responsive UI"],
+      "metrics": ["Education", "Role-Based Access", "Subscriptions"],
+      "features": [
+        "Teacher dashboard",
+        "Student dashboard",
+        "Course management",
+        "Classroom management",
+        "Assignment submission",
+        "Course enrollment",
+        "Stripe subscriptions",
+        "Theme customization",
+        "Arabic & English support",
+        "Authentication",
+        "Responsive design"
+      ]
+    },
+    "writeflow": {
+      "title": "WriteFlow AI",
+      "category": "AI Platform",
+      "description": "An AI-powered writing platform that helps users generate articles, marketing content, blog posts, and professional documents using modern LLM APIs.",
+      "overview": [
+        "WriteFlow AI is an intelligent content generation platform that leverages modern Large Language Models to help users produce high-quality written content in seconds. The application is designed for marketers, bloggers, students, entrepreneurs, and businesses that need professional content creation with minimal effort.",
+        "Users can generate blog articles, marketing copy, social media posts, product descriptions, emails, technical documentation, and creative writing through a clean and user-friendly interface. The platform manages AI conversations, stores generated content, and allows users to revisit previous sessions for editing or regeneration.",
+        "The application focuses on providing fast, accurate, and customizable AI-powered writing while maintaining an intuitive workflow that simplifies the entire content creation process."
+      ],
+      "highlights": ["AI Content Generation", "Articles & Blog Posts", "Marketing Content", "LLM API Integration"],
+      "metrics": ["AI Powered", "LLM Integration", "Content Generation"],
+      "features": [
+        "AI-powered text generation",
+        "Multiple content templates",
+        "Conversation history",
+        "Content management",
+        "User authentication",
+        "Responsive interface",
+        "Secure API integration",
+        "Fast generation workflow"
+      ]
+    },
+    "taskflow": {
+      "title": "TaskFlow AI",
+      "category": "Productivity",
+      "description": "An AI-powered task management platform that combines personal task tracking with AI-driven planning, turning feature descriptions into structured tasks, agile backlogs, and sprint plans.",
+      "overview": [
+        "TaskFlow AI is an intelligent productivity platform that combines traditional task management with artificial intelligence. Users can organize personal tasks while utilizing AI to automatically break complex project requirements into actionable development tasks, agile backlogs, and sprint planning.",
+        "The platform enables users to create, update, prioritize, and monitor their daily tasks while AI assists in project planning by generating structured task lists from simple feature descriptions. This significantly reduces planning time and improves software development workflows."
+      ],
+      "highlights": ["Task Management", "AI Task Generation", "Sprint Planning", "Agile Backlog"],
+      "metrics": ["AI Powered", "Productivity"],
+      "features": [
+        "Personal task management",
+        "AI task generation",
+        "Agile backlog creation",
+        "Sprint planning",
+        "Task prioritization",
+        "Status management",
+        "User authentication",
+        "Responsive dashboard"
+      ]
+    },
+    "swiftshare": {
+      "title": "SwiftShare",
+      "category": "File Sharing",
+      "description": "A secure file transfer platform inspired by WeTransfer, allowing users to upload, manage, and share files through temporary download links with full upload history.",
+      "overview": [
+        "SwiftShare is a secure file transfer platform inspired by WeTransfer, allowing users to upload, manage, and share files through temporary download links. The application provides a clean and intuitive interface for securely transferring large files without requiring complex configurations.",
+        "Users can upload files, generate secure sharing links, manage upload history, and monitor download activity. The platform is optimized for speed, simplicity, and reliability while maintaining a modern user experience."
+      ],
+      "highlights": ["File Upload & Download", "Shareable Links", "Upload History", "File Validation"],
+      "metrics": ["File Sharing"],
+      "features": [
+        "Secure file uploads",
+        "Download link generation",
+        "File management",
+        "Upload history",
+        "Responsive interface",
+        "Authentication",
+        "File validation"
+      ]
+    },
+    "storeclothes": {
+      "title": "Store Clothes",
+      "category": "E-Commerce",
+      "description": "An e-commerce store for clothing, featuring product catalogs, categories, shopping cart, and a streamlined checkout flow for a complete online shopping experience.",
+      "overview": [
+        "Store Clothes is an e-commerce store dedicated to clothing, designed to deliver a smooth online shopping experience. Customers can browse a product catalog organized by categories, add items to their cart, and complete orders through a clean and straightforward checkout flow.",
+        "The platform covers the full shopping journey with product listings, category browsing, cart management, and order handling, all wrapped in a responsive interface that works across desktop and mobile devices."
+      ],
+      "highlights": ["Product Catalog", "Categories", "Shopping Cart", "Checkout Flow"],
+      "metrics": ["E-Commerce", "Clothing Store"],
+      "features": [
+        "Product catalog",
+        "Category browsing",
+        "Shopping cart",
+        "Checkout flow",
+        "Order management",
+        "Responsive interface"
+      ]
+    },
+    "ellamart": {
+      "title": "Ellamart",
+      "category": "E-Commerce",
+      "description": "An e-commerce marketplace application with product listings, shopping cart, secure checkout, and order tracking designed for a smooth shopping experience.",
+      "overview": [
+        "Ellamart is an e-commerce marketplace application built around a smooth, end-to-end shopping experience. It provides product listings, a functional shopping cart, secure checkout, and order tracking so customers can move from browsing to delivery with confidence.",
+        "The platform handles the core marketplace flows — browsing products, managing cart contents, processing orders, and tracking their status — through a responsive and user-friendly interface."
+      ],
+      "highlights": ["Product Listings", "Shopping Cart", "Secure Checkout", "Order Tracking"],
+      "metrics": ["E-Commerce", "Marketplace"],
+      "features": [
+        "Product listings",
+        "Shopping cart",
+        "Secure checkout",
+        "Order tracking",
+        "User accounts",
+        "Responsive interface"
+      ]
+    },
+    "searchmeals": {
+      "title": "Search Meals",
+      "category": "Food & Recipes",
+      "description": "A meals and recipes search application that lets users browse, filter, and discover dishes with details on ingredients and preparation.",
+      "overview": [
+        "Search Meals is a meals and recipes search application that makes discovering new dishes simple. Users can search for meals, filter by category, and open detailed views showing the ingredients and preparation steps for each recipe.",
+        "Built around a public recipes API, the application demonstrates clean API integration, filtering, and responsive presentation of dynamic content across desktop and mobile."
+      ],
+      "highlights": ["Meal Search", "Category Filtering", "Recipe Details", "API Integration"],
+      "metrics": ["Food & Recipes"],
+      "features": [
+        "Meal search",
+        "Category filtering",
+        "Recipe details",
+        "API integration",
+        "Responsive interface"
+      ]
+    },
+    "swaply": {
+      "title": "Swaply",
+      "category": "Community",
+      "description": "A platform that enables users to list and swap items with others, featuring user accounts, item listings, and swap requests between members.",
+      "overview": [
+        "Swaply is a community platform that lets users list items they no longer need and swap them with other members. It combines user accounts, item listings, and a swap request flow so members can discover items, request exchanges, and manage their swaps in one place.",
+        "The platform covers the core community flows — registration and profiles, publishing listings, browsing what others offer, and sending or reviewing swap requests — through a clean, responsive interface."
+      ],
+      "highlights": ["Item Listings", "User Accounts", "Swap Requests"],
+      "metrics": ["Community Platform"],
+      "features": [
+        "Item listings",
+        "User accounts",
+        "Swap requests",
+        "Responsive interface"
+      ]
+    }
+  },
+  "tech": {
+    "REST API": "REST API",
+    "REST APIs": "REST APIs",
+    "Authentication": "Authentication",
+    "Authorization": "Authorization",
+    "Database Design": "Database Design",
+    "Responsive Design": "Responsive Design",
+    "Responsive UI": "Responsive UI",
+    "State Management (Pinia)": "State Management (Pinia)",
+    "AI Integration": "AI Integration",
+    "AI-powered Features": "AI-powered Features",
+    "LLM Integration": "LLM Integration",
+    "Prompt Engineering": "Prompt Engineering",
+    "Payment Integration": "Payment Integration",
+    "Authentication & Authorization": "Authentication & Authorization",
+    "Groq AI API": "Groq AI API",
+    "Groq API": "Groq API",
+    "Groq AI": "Groq AI",
+    "OpenAI API": "OpenAI API",
+    "Git & GitHub": "Git & GitHub",
+    "InertiaJS": "InertiaJS",
+    "Vuex": "Vuex",
+    "Alpine JS": "Alpine JS",
+    "Vuetify": "Vuetify",
+    "Bootstrap": "Bootstrap",
+    "Sass": "Sass",
+    "TypeScript": "TypeScript",
+    "HTML5": "HTML5",
+    "CSS3": "CSS3"
+  }
+}
