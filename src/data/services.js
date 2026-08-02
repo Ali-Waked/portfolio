@@ -1,0 +1,51 @@
+export const services = [
+  {
+    id: 1,
+    title: 'Backend Development',
+    description: 'Design and develop secure, scalable backend applications using Laravel and PHP. Build RESTful APIs, implement authentication and authorization, manage databases, and create maintainable server-side architectures.',
+    icon: 'server',
+    gradient: 'from-primary-500 to-blue-500',
+  },
+  {
+    id: 2,
+    title: 'Frontend Development',
+    description: 'Develop responsive and interactive user interfaces using Vue.js, JavaScript, Tailwind CSS, and modern frontend development practices with a focus on performance and user experience.',
+    icon: 'code',
+    gradient: 'from-green-500 to-teal-500',
+  },
+  {
+    id: 3,
+    title: 'Full Stack Development',
+    description: 'Build complete web applications from frontend to backend, including authentication, dashboards, database design, API integration, payment gateways, and responsive user interfaces.',
+    icon: 'layers',
+    gradient: 'from-purple-500 to-pink-500',
+  },
+  {
+    id: 4,
+    title: 'REST API Development',
+    description: 'Develop secure, well-structured RESTful APIs with authentication, validation, documentation, and seamless communication between frontend and backend systems.',
+    icon: 'link',
+    gradient: 'from-orange-500 to-red-500',
+  },
+  {
+    id: 5,
+    title: 'AI Integration',
+    description: 'Integrate AI-powered features into web applications using modern LLM APIs such as Groq. Build intelligent assistants, content generation tools, and workflow automation features.',
+    icon: 'brain',
+    gradient: 'from-indigo-500 to-cyan-500',
+  },
+  {
+    id: 6,
+    title: 'Database Design',
+    description: 'Design efficient relational databases using MySQL, create optimized schemas, manage relationships, write performant queries, and implement clean database structures.',
+    icon: 'database',
+    gradient: 'from-rose-500 to-fuchsia-500',
+  },
+  {
+    id: 7,
+    title: 'Authentication & Security',
+    description: 'Implement secure authentication and authorization using Laravel Sanctum and Fortify, role-based access control, middleware, validation, and application security best practices.',
+    icon: 'layout',
+    gradient: 'from-amber-500 to-yellow-500',
+  },
+]
