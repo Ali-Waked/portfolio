@@ -600,6 +600,7 @@
     "Sass": "Sass",
     "TypeScript": "TypeScript",
     "HTML5": "HTML5",
-    "CSS3": "CSS3"
+    "CSS3": "CSS3",
+    "PostgreSQL": "PostgreSQL"
   }
 }
