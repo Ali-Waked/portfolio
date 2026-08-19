@@ -1,5 +1,5 @@
 <template>
-  <section id="skills" class="relative isolate py-16 md:py-24 overflow-hidden">
+  <section id="skills" class="relative isolate py-8 md:py-12 overflow-hidden">
     <div class="section-container">
       <div v-reveal="'fade-up'" class="mb-12 md:mb-16">
         <div class="flex flex-wrap items-end justify-between gap-6">

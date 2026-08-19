@@ -1,5 +1,5 @@
 <template>
-  <footer ref="footerRef" class="relative border-t border-white/5 pt-16 pb-8">
+  <footer ref="footerRef" class="relative border-t border-white/5 pt-8 pb-8">
     <div class="section-container">
       <div class="grid md:grid-cols-3 gap-12 mb-12">
         <!-- Brand -->

@@ -1,5 +1,5 @@
 <template>
-  <section id="about" class="relative py-16 md:py-24 overflow-hidden">
+  <section id="about" class="relative py-8 md:py-12 overflow-hidden">
     <div class="section-container">
       <!-- Section Header -->
       <div v-reveal="'fade-up'" class="mb-16 md:mb-20">

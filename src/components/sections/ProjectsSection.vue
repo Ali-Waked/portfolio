@@ -1,5 +1,5 @@
 <template>
-  <section id="projects" class="relative py-16 md:py-24 overflow-hidden">
+  <section id="projects" class="relative py-8 md:py-12 overflow-hidden">
     <div class="section-container">
       <div v-reveal="'fade-up'" class="mb-16 md:mb-20">
         <p class="text-xs font-mono text-primary-400 tracking-[0.3em] uppercase mb-4">{{ t('projectsSection.kicker') }}</p>
