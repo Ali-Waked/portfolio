@@ -167,7 +167,7 @@ import { ref, onMounted, onUnmounted } from 'vue'
 import { useI18n } from 'vue-i18n'
 import ProfileImage from '@/components/ui/ProfileImage.vue'
 import { useIsRtl } from '@/composables/useLocale'
-import cvUrl from '@/assets/files/cv.docx'
+import cvUrl from '@/assets/files/Ali_Abu_Waked_Resume.pdf'
 
 const { t } = useI18n()
 const isRtl = useIsRtl()

@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class="relative py-16 md:py-24 overflow-hidden">
+  <section id="contact" class="relative py-8 md:py-12 overflow-hidden">
     <!-- Background gradient -->
     <div class="absolute inset-0 bg-gradient-to-b from-dark-bg via-primary-500/5 to-dark-bg pointer-events-none" />
 
@@ -231,7 +231,7 @@ import { reactive, ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { profile } from '@/data/profile'
 import MagneticButton from '@/components/ui/MagneticButton.vue'
-import cvUrl from '@/assets/files/cv.docx'
+import cvUrl from '@/assets/files/Ali_Abu_Waked_Resume.pdf'
 import { useEmail, validateContactForm, isCooldownActive } from '@/composables/useEmail'
 import { useToast } from '@/composables/useToast'
 
